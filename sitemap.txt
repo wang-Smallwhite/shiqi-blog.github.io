@@ -1,4 +1,4 @@
-http://example.com/2022/04/18/CSS/
-http://example.com/2022/04/18/JS/
-http://example.com/about/index.html
-http://example.com/
+https://wang-smallwhite.github.io/shiqi-blog.github.io/2022/04/18/CSS/
+https://wang-smallwhite.github.io/shiqi-blog.github.io/2022/04/18/JS/
+https://wang-smallwhite.github.io/shiqi-blog.github.io/about/index.html
+https://wang-smallwhite.github.io/shiqi-blog.github.io

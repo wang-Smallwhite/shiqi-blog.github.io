@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://wang-smallwhite.github.io/shiqi-blog.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://wang-smallwhite.github.io/shiqi-blog.github.io/"/>
   <updated>2022-04-18T06:29:49.494Z</updated>
-  <id>http://example.com/</id>
+  <id>https://wang-smallwhite.github.io/shiqi-blog.github.io/</id>
   
   <author>
     <name>shiQi</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>CSS</title>
-    <link href="http://example.com/2022/04/18/CSS/"/>
-    <id>http://example.com/2022/04/18/CSS/</id>
+    <link href="https://wang-smallwhite.github.io/shiqi-blog.github.io/2022/04/18/CSS/"/>
+    <id>https://wang-smallwhite.github.io/shiqi-blog.github.io/2022/04/18/CSS/</id>
     <published>2022-04-18T05:51:19.000Z</published>
     <updated>2022-04-18T06:29:49.494Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>JS</title>
-    <link href="http://example.com/2022/04/18/JS/"/>
-    <id>http://example.com/2022/04/18/JS/</id>
+    <link href="https://wang-smallwhite.github.io/shiqi-blog.github.io/2022/04/18/JS/"/>
+    <id>https://wang-smallwhite.github.io/shiqi-blog.github.io/2022/04/18/JS/</id>
     <published>2022-04-18T05:51:19.000Z</published>
     <updated>2022-04-18T06:28:52.092Z</updated>
     
